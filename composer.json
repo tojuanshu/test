@@ -15,7 +15,7 @@
     },  
     "autoload": {
         "psr-4": {
-            "yuan37\\api\\": "src"
+            "yuan37\\test\\": "src"
         }
     }
 }
