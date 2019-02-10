@@ -3,7 +3,7 @@
     "description": "api for network tool",
     "keywords": ["yuan37", "network", "api", "http"],
     "type": "library",
-    "license": "Apache",
+    "license": "MIT",
     "authors": [
         {
             "name": "xuyuan",
