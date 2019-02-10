@@ -1,6 +1,6 @@
 {
     "name": "yuan37/test",
-    "description": "api for network tool",
+    "description": "api for network tool, test",
     "keywords": ["yuan37", "network", "api", "http"],
     "type": "library",
     "license": "MIT",
